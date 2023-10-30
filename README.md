@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jyotishman2005
-- 👀 I’m interested in Programming Languages, Cybersecurity and Web development. 
+- 👀 I’m interested in Programming Languages, Cybersecurity and Web development.
+- I'm a beginner and 1st year Student 
 - 🌱 I’m currently learning C++, Node.js and basics of Cybersecurity.
 - 💞️ I’m looking to contribute on Hacktoberfest.
 - 📫 How to reach me : dasjyotishman37@gmail.com / thunderavalon2005@gmail.com
