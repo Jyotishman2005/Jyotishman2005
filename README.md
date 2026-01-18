@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jyotishman2005
 - 👀 I’m interested in Programming Languages, Cybersecurity.
 - I'm a beginner and 2nd year Student 
-- 🌱 I’m currently learning C++ & basics of Cybersecurity.
+- 🌱 I’m currently learning C,C++,Python & basics of Machine Learning.
 - 📫 How to reach me : dasjyotishman37@gmail.com / thunderavalon2005@gmail.com
 
 <!---
